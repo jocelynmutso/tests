@@ -17,7 +17,7 @@ public class Cat {
 	}
 
 	public static void main(String[] args) {
-		Cat.myStaticMethod();
+    Cat.myStaticMethod();
 		
 		/*myPublicMethod();*/
 		
